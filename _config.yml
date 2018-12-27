@@ -1,9 +1,15 @@
 # Site settings
 title: JZB Blog
 SEOTitle: 姜志波的博客 | JZB Blog
+<<<<<<< HEAD
 header-img: img/tag-bg-o.jpg
 email: jzb333@gmail.com
 description: "Jiang Zhibo's personal website."
+=======
+header-img: img/post-bg-desk.jpg
+email: jzb333@gmail.com
+description: "Good Good Study,Day Day Up."
+>>>>>>> f90dceae92c8d21d7d19a0cf256407955d33ce0c
 keyword: "JZB, JZB Blog, 姜志波的博客, jiangzhibo, 姜志波, Jiang Zhibo, 三七"
 url: "http://jiangzhibo.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,7 +18,7 @@ github_repo: "https://github.com/jiangzhibo/jiangzhibo.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/logo.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -23,7 +29,11 @@ weibo_username:     jiangzhibo
 github_username:    jiangzhibo
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
+<<<<<<< HEAD
 # twitter_username:   qiubaiying
+=======
+#twitter_username:   qiubaiying
+>>>>>>> f90dceae92c8d21d7d19a0cf256407955d33ce0c
 
 
 
